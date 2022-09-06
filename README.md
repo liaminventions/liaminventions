@@ -8,12 +8,14 @@ I also made a C64 demo!
 __________________________________________________
 
 Blog: https://unstinkableinventions.wordpress.com
+
 CSDb: https://csdb.dk/scener/?id=37280
+
 Email: unstinkable919@gmail.com
 __________________________________________________
 
 ![Waverider's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaminventions&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaminventions)](https://github.com/liaminventions/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaminventions&theme=radical&show_icons=true)]
 
 <!---
 liaminventions/liaminventions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
