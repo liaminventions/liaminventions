@@ -12,6 +12,7 @@ CSDb: https://csdb.dk/scener/?id=37280
 Email: unstinkable919@gmail.com
 __________________________________________________
 
+![Waverider's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamsinventions&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaminventions)](https://github.com/liaminventions/github-readme-stats)
 
 <!---
