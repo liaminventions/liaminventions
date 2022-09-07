@@ -5,6 +5,11 @@ and the emulator for it.
 
 I also made a C64 demo!
 
+
+I've got an update channel, where I will post the videos that go in my blog.
+
+I make msuic as well, check out my music channel.
+
 __________________________________________________
 
 Blog: https://unstinkableinventions.wordpress.com
@@ -12,6 +17,10 @@ Blog: https://unstinkableinventions.wordpress.com
 CSDb: https://csdb.dk/scener/?id=37280
 
 Email: unstinkable919@gmail.com
+
+Main YouTube: https://www.youtube.com/channel/UCphFHuNFtvYb7Ymp_AfSyZw
+
+Music Youtube: https://www.youtube.com/channel/UC23SyEF4Bn1VXjlSWNfKBxA
 __________________________________________________
 
 ![Waverider's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaminventions&theme=radical&show_icons=true)
