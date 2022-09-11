@@ -18,6 +18,8 @@ CSDb: https://csdb.dk/scener/?id=37280
 
 Email: unstinkable919@gmail.com
 
+Reddit: https://www.reddit.com/user/unstinkable
+
 Main YouTube: https://www.youtube.com/channel/UCphFHuNFtvYb7Ymp_AfSyZw
 
 Music Youtube: https://www.youtube.com/channel/UC23SyEF4Bn1VXjlSWNfKBxA
