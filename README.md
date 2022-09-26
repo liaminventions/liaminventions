@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Waverider
+👋 Hi, I’m Waverider
 
 I am working on the XPL-32 (8 bit homebrew laptop)
 and the emulator for it.
