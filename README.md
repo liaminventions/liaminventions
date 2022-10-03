@@ -8,7 +8,7 @@ I also made a C64 demo!
 
 I've got an update channel, where I will post the videos that go in my blog.
 
-I make msuic as well, check out my music channel.
+I make music as well, check out my music channel.
 
 __________________________________________________
 
