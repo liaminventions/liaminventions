@@ -3,8 +3,9 @@
 I am working on the XPL-32 (8 bit homebrew laptop)
 and the emulator for it.
 
-I also made a C64 demo!
+I also made a C64 intro!
 
+Also i'm a coder in the demogroup Atlantis: https://csdb.dk/group/?id=240
 
 I've got an update channel, where I will post the videos that go in my blog.
 
