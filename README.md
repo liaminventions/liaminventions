@@ -1,4 +1,6 @@
-👋 Hi, I’m Waverider
+*"A Dragon with a lot of time on his claws."*
+
+**👋 Hi, I’m Waverider**
 
 I am working on the XPL-32 (8 bit homebrew laptop)
 and the emulator for it.
