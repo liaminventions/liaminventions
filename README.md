@@ -17,17 +17,7 @@ I am also part of FTC team #17346, The Taco Terminators, since 2019.
 
 __________________________________________________
 
-Blog: https://unstinkableinventions.wordpress.com
-
-CSDb: https://csdb.dk/scener/?id=37280
-
-Email: unstinkable919@gmail.com
-
-Reddit: https://www.reddit.com/user/unstinkable
-
-Main YouTube: https://www.youtube.com/channel/UCphFHuNFtvYb7Ymp_AfSyZw
-
-Music Youtube: https://www.youtube.com/channel/UC23SyEF4Bn1VXjlSWNfKBxA
+https://unstinkable.carrd.co/
 __________________________________________________
 
 ![Waverider's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaminventions&theme=radical&show_icons=true)
