@@ -15,6 +15,8 @@ I make music as well, check out my music channel.
 
 I am also part of FTC team #17346, The Taco Terminators, since 2019.
 
+Also, i use arch btw.
+
 __________________________________________________
 
 https://unstinkable.carrd.co/
