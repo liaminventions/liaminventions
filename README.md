@@ -17,7 +17,7 @@ I am also part of FTC team #17346, The Taco Terminators, since 2019.
 
 Also, i use arch btw.
 
-current commits per day record: 56
+My current commits per day record: 56
 __________________________________________________
 
 https://unstinkable.carrd.co/
