@@ -20,7 +20,7 @@ Also, i use arch btw.
 My current commits per day record: 56
 __________________________________________________
 
-https://unstinkable.carrd.co/
+https://wavid.carrd.co/
 __________________________________________________
 
 ![Waverider's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaminventions&theme=radical&show_icons=true)
