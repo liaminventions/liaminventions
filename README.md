@@ -24,7 +24,7 @@ https://wavid.carrd.co/
 __________________________________________________
 
 [![Waverider's GitHub stats](https://github-readme-stats.vercel.app/api?username=waverider&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaminventions&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waverider&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 liaminventions/liaminventions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
