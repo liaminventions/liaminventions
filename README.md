@@ -2,7 +2,7 @@
 
 **👋 Hi, I’m Waverider**
 
-I am working on the XPL-32 (8 bit homebrew laptop)
+I am working on creating the XPL-32 (an 8 bit homebrew laptop)
 and the emulator for it.
 
 I also made a C64 intro!
