@@ -7,7 +7,7 @@ and the emulator for it.
 
 I also made a C64 intro!
 
-Also i'm a coder in the demogroup Atlantis: https://csdb.dk/group/?id=240
+Also i'm a coder in the demogroup Atlantis (im sorta inactive though at the moment): https://csdb.dk/group/?id=240
 
 I've got an update channel, where I will post the videos that go in my blog.
 
