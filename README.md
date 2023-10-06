@@ -13,8 +13,6 @@ I've got an update channel, where I will post the videos that go in my blog.
 
 I make music as well, check out my music channel.
 
-I am also part of FTC team #17346, The Taco Terminators, since 2019.
-
 ~~Also, i use arch btw.~~
 
 My current commits per day record: 56
