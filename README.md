@@ -1,21 +1,10 @@
-*"A Dragon with a lot of time on his claws."*
+hi, i'm waverider!
 
-**👋 Hi, I’m Waverider**
+i made an 8-bit laptop called the XPL-32, with all of it's code written in assembly. (will resume debugging soon!)
 
-I am working on creating the XPL-32 (an 8 bit homebrew laptop)
-and the emulator for it.
+be sure to check out my music channel!
 
-I also made a C64 intro!
-
-Also i'm a coder in the demogroup Atlantis (im sorta inactive though at the moment): https://csdb.dk/group/?id=240
-
-I've got an update channel, where I will post the videos that go in my blog.
-
-I make music as well, check out my music channel.
-
-~~Also, i use arch btw.~~
-
-My current commits per day record: 56
+commits per day record: 56
 __________________________________________________
 
 https://wavid.carrd.co/
@@ -30,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://raw.githubusercontent.com/liaminventions/liaminventions/main/desk.jpg)
+
+demogroup im in: https://csdb.dk/group/?id=240 (hope to get back to it soon!!)
