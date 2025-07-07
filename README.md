@@ -1,8 +1,9 @@
 hi, i'm waverider!
 
-i made an 8-bit laptop called the XPL-32, with all of it's code written in assembly. (will resume debugging soon!)
-
+i made an 8-bit laptop called the XPL-32, with all of it's code written in assembly.
 be sure to check out my music channel!
+
+i also make/code robots. (FTC)
 
 commits per day record: 56
 __________________________________________________
